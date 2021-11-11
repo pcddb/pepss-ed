@@ -9,5 +9,5 @@ It is very fast as it doesn't use evolutionary information. Instead just amino a
 This makes it suitable for proteomic datasets where there may be many thousands of peptides present.
 
 ## Instructions
-Click [here](https://colab.research.google.com/github/elliot-drew/pepss-ed/blob/main/pepss.ipynb) to open the notebook on Google Colab.
+Click [here](https://colab.research.google.com/github/pcddb/pepss-ed/blob/main/pepss.ipynb) to open the notebook on Google Colab.
 Follow the instructions on the notebook to make your predictions.
